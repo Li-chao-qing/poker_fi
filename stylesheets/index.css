@@ -1,0 +1,93 @@
+body{
+	font-family: '微软雅黑';
+	
+	margin:0;
+	background: #253A6B;
+
+}
+#scene{
+	width:922px;
+	height:600px;
+	/*border:1px solid black;*/
+	margin:0 auto;
+	position: relative;
+}
+.block,.block1{
+	font-family: "cooper";
+	width: 114px;
+	height:149px;
+	border-radius: 10px;
+	/*background:rgba(255,125,0,0.7);*/
+	position: absolute;
+	font-size: 12px;
+	color: white;
+	text-align: center;
+	/*left: 0;*/
+	/*float: left;*/
+	/*margin-right: 20px;*/
+	/*border:1px solid black;*/
+	box-shadow: 0 0 5px #1F1F1F;
+	background-size: cover;
+
+}
+#fanpai{
+	width: 112px;
+	height:149px;
+	/*border:1px solid black;*/
+	position: absolute;
+	bottom: 10px;
+	left: 100px;
+}
+#refan{
+	width: 112px;
+	height:149px;
+	/*border:1px solid black;*/
+	position: absolute;
+	bottom: 10px;
+	right: 100px;
+	/*display: none;*/
+}
+.center{
+	width: 112px;
+	height:119px;
+	/*border:1px solid black;*/
+	/*margin: 0 auto;*/
+
+	position: absolute;
+	bottom: 10px;
+	right: 400px;
+	padding-top:30px; 
+}
+.lit{
+	border-radius: 10px;
+	color: white;
+	text-align: center;
+	line-height: 30px;
+	width: 90px;
+	height:30px;
+	border:1px solid #ccc;
+	left: 420px;
+	position: absolute;
+	/*bottom: 100px;*/
+	/*margin-bottom: 20px;
+	margin-left: 10px;*/
+}
+#above{
+	bottom: 100px;
+}
+#below{
+	bottom: 47px;
+}
+/*.hang{*/
+	/*height: 195px;*/
+	/*width: 300px;*/
+	/*border:1px solid black;*/
+	/*position: absolute;*/
+/*}*/
+
+/*.hang{*/
+	/*height: 195px;*/
+	/*width: 300px;*/
+	/*border:1px solid black;*/
+	/*position: absolute;*/
+/*}*/
